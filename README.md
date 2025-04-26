@@ -59,13 +59,6 @@ CircularLoadingCompose(
 )
 ```
 
-## 🛡️ License
-
-```
-MIT License
-```
-This project is licensed under the terms of the MIT license.
-
 ## 🤝 Contributing
 
 - Contributions are very welcome! 🎉
@@ -80,3 +73,10 @@ This project is licensed under the terms of the MIT license.
 - Author: Rakibul Ahasan
 - Email: ahasan.papon@gmail.com
 - GitHub: @PaponAhasan
+
+## 🛡️ License
+
+```
+MIT License
+```
+This project is licensed under the terms of the MIT license.
