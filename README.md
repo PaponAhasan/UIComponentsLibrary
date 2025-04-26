@@ -1,7 +1,5 @@
 # UIComponentsLibrary
 
-...
-
 ## 📦 Installation
 
 ### Step 1: Add JitPack Repository
@@ -37,15 +35,8 @@ You can find the latest version here on JitPack. [Check Latest](https://jitpack.
 ## 🚀 Features
 
 - ✅ Supports both XML and Jetpack Compose
-
-- 🎨 Highly customizable UI components
-
 - ⚡ Lightweight and optimized for performance
-
 - 🧩 Easy to integrate into any Android project
-
-- 🛠️ Built following SOLID principles for clean architecture
-
 - 📱 Responsive and modern design
 
 ## 🛠️ Usage
@@ -61,7 +52,7 @@ You can find the latest version here on JitPack. [Check Latest](https://jitpack.
 
 ### Jetpack Compose Example
 
-```
+```kotlin
 CircularLoadingCompose(
     modifier = Modifier.size(100.dp),
     color = Color.Gray
