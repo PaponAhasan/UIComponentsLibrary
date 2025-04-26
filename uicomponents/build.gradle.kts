@@ -58,8 +58,8 @@ afterEvaluate {
         publications {
             create<MavenPublication>("release") {
                 from(components["release"])
-                groupId = "com.github.rakibulahasan"
-                artifactId = "uicomponents"
+                groupId = "com.github.PaponAhasan"
+                artifactId = "UIComponentsLibrary"
                 version = "1.0.1"
             }
         }
